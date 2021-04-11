@@ -1,0 +1,28 @@
+﻿  opnegl5.cpp
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(70,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(80,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(96,55): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(130,11): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(135,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(142,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(149,9): warning C4018: “>=”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(210,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(262,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(271,35): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(271,27): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(271,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(274,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(274,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(274,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(277,37): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(277,28): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(277,19): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(303,28): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(303,20): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(324,28): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(324,20): warning C4244: “参数”: 从“double”转换到“GLsizei”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(374,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(375,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(404,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DZZ\source\repos\opnegl5\opnegl5\opnegl5.cpp(405,11): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  opnegl5.vcxproj -> C:\Users\DZZ\source\repos\opnegl5\Debug\opnegl5.exe
